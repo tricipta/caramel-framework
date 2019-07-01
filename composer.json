@@ -21,6 +21,9 @@
     "autoload": {
         "psr-4" : {
             "Caramel\\" : "src/Caramel/"
-        }
+        },
+        "files": [
+            "src/Caramel/Utils.php"
+        ]
     }
 }
