@@ -1,7 +1,9 @@
 # Caramel Framework
 
-[![Total Downloads](https://poser.pugx.org/tricipta/caramel-framework/d/total.svg)](https://packagist.org/packages/tricipta/caramel-framework)
-[![License](https://poser.pugx.org/tricipta/caramel-framework/license.svg)](https://packagist.org/packages/tricipta/caramel-framework)
+[![Latest Stable Version](https://poser.pugx.org/tricipta/caramel-framework/v/stable)](https://packagist.org/packages/tricipta/caramel-framework)
+[![Total Downloads](https://poser.pugx.org/tricipta/caramel-framework/downloads)](https://packagist.org/packages/tricipta/caramel-framework)
+[![Latest Unstable Version](https://poser.pugx.org/tricipta/caramel-framework/v/unstable)](https://packagist.org/packages/tricipta/caramel-framework)
+[![License](https://poser.pugx.org/tricipta/caramel-framework/license)](https://packagist.org/packages/tricipta/caramel-framework)
 
 ## Documentation
 
