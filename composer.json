@@ -1,0 +1,24 @@
+{
+    "name": "tricipta/caramel",
+    "type": "library",
+    "description": "The Caramel PHP Framework",
+    "keywords": ["framework", "caramel"],
+    "homepage": "http://caramel.bitvirtu.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tata Tricipta",
+            "email": "tricipta@me.com",
+            "homepage": "http://caramel.bitvirtu.com",
+            "role": "Founder"
+        }
+    ],
+    "require": {
+        "php": "^7.1",
+        "twig/twig": "^2.11",
+        "twig/extensions": "1.5.*"
+    },
+    "autoload": {
+        "files": [ "src/Caramel.php" ]
+    }
+}
