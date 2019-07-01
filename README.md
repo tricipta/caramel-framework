@@ -1,7 +1,7 @@
 # Caramel Framework
 
-[![Total Downloads](https://poser.pugx.org/laravel/lumen-framework/d/total.svg)](https://packagist.org/packages/tricipta/caramel-framework)
-[![License](https://poser.pugx.org/laravel/lumen-framework/license.svg)](https://packagist.org/packages/tricipta/caramel-framework)
+[![Total Downloads](https://poser.pugx.org/tricipta/caramel-framework/d/total.svg)](https://packagist.org/packages/tricipta/caramel-framework)
+[![License](https://poser.pugx.org/tricipta/caramel-framework/license.svg)](https://packagist.org/packages/tricipta/caramel-framework)
 
 ## Documentation
 
