@@ -375,7 +375,7 @@ class RequestHandler
       return $settings['template_loader'];
     }
     $args = [];
-    $fileLoader = new \Twig\Loader\Filesystem($templatePath);
+    $fileLoader = new \Twig\Loader\FilesystemLoader($templatePath);
     if ($themePath) {
       if (isset($this->theme)) {
         $fileLoader->prependPath($themePath . DS . $this->theme . DS . 'templates' . DS);
@@ -388,7 +388,7 @@ class RequestHandler
       }
     }
     $loaders = [$fileLoader];
-    $loader = new \Twig\Loader\Chain($loaders);
+    $loader = new \Twig\Loader\ChainLoader($loaders);
     $options = [];
     if (array_key_exists('template_options', $settings)) {
       $options = $settings['template_options'];
