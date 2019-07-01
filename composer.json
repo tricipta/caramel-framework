@@ -19,6 +19,8 @@
         "twig/extensions": "1.5.*"
     },
     "autoload": {
-        "files": [ "src/Caramel.php" ]
+        "psr-4" : {
+            "Caramel\\" : "src/"
+        }
     }
 }
