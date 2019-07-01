@@ -58,32 +58,32 @@ class RequestHandler
 
   }
 
-  public function get($args=[], $kargs=[])
+  public function get($args, $kargs)
   {
     throw new HTTPError(405);
   }
 
-  public function head($args=[], $kargs=[])
+  public function head($args, $kargs)
   {
     throw new HTTPError(405);
   }
 
-  public function post($args=[], $kargs=[])
+  public function post($args, $kargs)
   {
     throw new HTTPError(405);
   }
 
-  public function delete($args=[], $kargs=[])
+  public function delete($args, $kargs)
   {
     throw new HTTPError(405);
   }
 
-  public function put($args=[], $kargs=[])
+  public function put($args, $kargs)
   {
     throw new HTTPError(405);
   }
 
-  public function options($args=[], $kargs=[])
+  public function options($args, $kargs)
   {
     throw new HTTPError(405);
   }
